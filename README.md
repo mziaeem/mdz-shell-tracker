@@ -3,6 +3,8 @@ tracker-search-provider
 
 __Gnome-shell extension__: displays tracker search results in the shell overview
 
+improved by majid ziaei
+
 
 ## Description
 When in overview mode of gnome-shell, everytime you enter a string, the shell displays found results for you.
