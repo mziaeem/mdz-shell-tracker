@@ -1,7 +1,7 @@
 {
-  "uuid": "tracker-search-provider@sinnix.de",
-  "name": "Tracker Search Provider",
-  "description": "Provide tracker search results in overview",
+  "uuid": "mdz-shell-tracker@ziaei.ir",
+  "name": "Mdz Shell Tracker",
+  "description": "Refind Search Provide in overview",
   "shell-version": ["3.10"],
-  "url": "https://github.com/hamiller/tracker-search-provider"
+  "url": "https://github.com/mziaeem/mdz-shell-tracker"
 }
